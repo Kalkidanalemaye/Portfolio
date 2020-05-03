@@ -1,2 +1,2 @@
 # Portfolio
-![Portfolio Overview](portfolio.jpg)
+![Portfolio Overview](portfolio .jpg)
